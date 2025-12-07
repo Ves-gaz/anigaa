@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=P18
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=in
-comment2.target=int[]\ readArray(java.util.Scanner)
-numComments=3
